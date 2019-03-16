@@ -1,0 +1,1 @@
+export default require('../styles/isbl-editor-light.scss')

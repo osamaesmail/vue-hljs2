@@ -1,0 +1,1 @@
+export default require('../styles/atom-one-dark-reasonable.scss')

@@ -1,0 +1,1 @@
+export default require('../styles/googlecode.scss')

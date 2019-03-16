@@ -1,0 +1,1 @@
+export default require('../styles/solarized-light.scss')

@@ -1,0 +1,1 @@
+export default require('../styles/a11y-light.scss')
